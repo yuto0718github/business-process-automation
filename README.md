@@ -35,7 +35,7 @@ Azureポータルにて"Cognitive services multi-service account"を作成し、
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoairedis.json)
 
 ## アーキテクチャ (一部)
-リソースグループを作成したら、このリポジトリをフォークしてヘルパーライブラリをインポートし、Github Actionsを活用してAzure Cognitive Servicesのセットをデプロイして、新しく作成したパイプライン内でバックグラウンドで新しいAzureモジュールの資格情報をすべて管理します。パイプラインのデプロイ後、パイプラインを構築してトリガーするための新しくカスタマイズ可能なPOC UIを持つ静的なWebアプリが作成されます。
+リソースグループを作成したら、このリポジトリをフォークしてヘルパーライブラリをインポートし、Github Actionsを活用してAzure Cognitive Servicesのセットをデプロイして、新しく作成したパイプライン内でバックグラウンドで新しいAzureモジュールの資格情報をすべて管理します。パイプラインのデプロイ後、パイプラインを構築してトリガーするためのカスタマイズ可能なUIを持つ静的Webアプリが作成されます。
 
 ![](images/architecture_white.png)  
 *Document Ingestion High-level technical architecture*  
