@@ -32,7 +32,9 @@ Azureポータルにて"Cognitive services multi-service account"を作成し、
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoai.json)
 
 ### With OpenAI and Redis Enterprise (check pricing) for Vector Search
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoairedis.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/NoriMin/business-process-automation/main/templates/oneclickoairedis.json)
+
+
 
 ## アーキテクチャ (一部)
 リソースグループを作成したら、このリポジトリをフォークしてヘルパーライブラリをインポートし、Github Actionsを活用してAzure Cognitive Servicesのセットをデプロイして、新しく作成したパイプライン内でバックグラウンドで新しいAzureモジュールの資格情報をすべて管理します。パイプラインのデプロイ後、パイプラインを構築してトリガーするためのカスタマイズ可能なUIを持つ静的Webアプリが作成されます。
