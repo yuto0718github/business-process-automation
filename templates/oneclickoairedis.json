@@ -633,7 +633,7 @@
       "type": "Microsoft.Cache/redisEnterprise",
       "apiVersion": "2022-01-01",
       "name": "[parameters('openaiName')]",
-      "location": "East US 2",
+      "location": "westeurope",
       "sku": {
         "name": "Enterprise_E10",
         "capacity": 2
