@@ -13,7 +13,7 @@
 7. Go to Vector Search Application in the UI.  
 ```
     "OPENAI_KEY" : "",
-    "OPENAI_REGION" : "southcentralus",
+    "OPENAI_REGION" : "westeurope",
     "OPENAI_ENDPOINT" : "https://yourservice.openai.azure.com/",
     "OPENAI_DEPLOYMENT_TEXT" : "bpatesttext",
     "OPENAI_DEPLOYMENT_SEARCH_DOC" : "bpatestsearchdoc",
