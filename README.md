@@ -26,14 +26,13 @@ Azureポータルにて"Cognitive services multi-service account"を作成し、
 4. リソースグループ、GitHubリポジトリのトークン(#2) 、フォーク先のリポジトリURL の情報が必要です。 残りのパラメータは、自動入力されます。
 
 ### Without OpenAI
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclick.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNoriMin%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclick.json)
 
 ### With OpenAI
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoai.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNoriMin%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoai.json)
 
 ### With OpenAI and Redis Enterprise (check pricing) for Vector Search
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/NoriMin/business-process-automation/main/templates/oneclickoairedis.json)
-
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNoriMin%2Fbusiness-process-automation%2Fmain%2Ftemplates%2Foneclickoairedis.json)
 
 
 ## アーキテクチャ (一部)
